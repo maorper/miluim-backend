@@ -5,3 +5,5 @@ pdfplumber
 beautifulsoup4
 requests
 selenium
+PyMuPDF
+
